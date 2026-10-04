@@ -1,7 +1,7 @@
 # Projeto Arena Tech
 
 ## Integrantes
-Leonardo Hiroshi Dondo de Freitas - RGM: 46610049
+Leonardo Hiroshi Dondo de Freitas - RGM: 46610049;
 Rafael Marques de Oliveira - RGM: 47877081
 
 ## Explicação da Solução
